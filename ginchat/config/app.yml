@@ -1,0 +1,6 @@
+mysql:
+  dns: root:112154ZhouM..@tcp(127.0.0.1:3306)/ginchat?charset=utf8mb4&parseTime=True&loc=Local
+
+redis:
+  address: 8.130.145.246:6379
+  password: 112154ZhouM..
